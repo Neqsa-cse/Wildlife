@@ -1,0 +1,283 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: 100%;
+    height: 1900px;
+}
+.first{
+    height: 30px;
+    width: 100%;
+    background: green;
+}
+.mmenu ul li{
+    display: inline;
+}
+.mmenu{
+    float: right;
+    margin-top: -25px;
+}
+.mmenu ul li a{
+    text-decoration: none;
+    margin-right: 15px;
+    color: white;
+    font-size: 15px;
+}
+.mmenu ul li select{
+    margin-right: 15px;
+}
+.mmenu ul li a:hover{
+    color: rgb(112, 177, 112);
+    transition: 0.4s ease-in-out;
+}
+.third{
+   background: #3A5D1E;
+   height: 128px;
+   width: 100%;
+
+}
+.sticker img{
+    float: left;
+    margin-top: -25px;
+    margin-left: 150px;
+     height:150px ;
+    width: 200px;
+}
+.flag img{
+    float: left;
+    height: 80px;
+    margin-left: 550px;
+    margin-top: 10px;
+}
+.search{
+    float: right;
+    margin-right: 175px;
+    margin-top: 20px;
+}
+.search input{
+    height: 25px;
+    border-radius: 5px;
+}
+.search button{
+  background-color: rgb(76, 135, 76);
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top:5px ;
+    padding-bottom:5px ;
+    border-radius: 5px ;
+}
+.line{
+    float: left;
+    color: white;
+    margin-left: -775px;
+    font-size: 15px;
+    margin-top: 110px;
+    height: 10px;
+} 
+.menu{
+    background: #dcd48b;
+    height: 40px;
+    width: 100%;
+    float: left;
+}
+ .menu ul li{
+    list-style: none;
+    display: inline;
+float: left;
+margin-top: 10px;
+margin-left: 30px;
+
+} 
+ .menu ul{
+    
+    padding-left: 250px;
+}
+    
+.menu ul li a{
+    text-decoration: none;
+    color: black;
+    
+}
+.menu ul li a:hover{
+    color: white;
+    transition: 0.4s ease-in-out;
+}
+.pic img{
+    height: 400px;
+    width: 100%;
+}
+.content{
+    background: green;
+    height: 30px;
+    text-align: center;
+    color: white;
+    margin-top: -5px;
+}
+.long{
+    float: left;
+    height: auto;
+    width: 65%;
+    background: rgb(222, 222, 149);
+}
+.p{
+    height: 300px;
+    width: 32%;
+    margin-left: 160px;
+    margin-top: 40px;
+    text-align: justify;
+    
+
+}
+.p b{
+    font-size: 20px;
+}
+.pic2{
+    float: right;
+    height: 225px;
+    width:275px;
+    margin-top: -275px;
+    margin-right: 175px;
+}
+.link{
+    float: left;
+    color: green;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 158px;
+}
+.red{
+    float: left;
+    margin-top: 100px;
+    margin-left: -175px;
+}
+.sc{
+    float: right;
+    margin-top: 220px;
+    margin-right: 50px;
+}
+.h {
+    float: left;
+    margin-top: 650px;
+    margin-left: -312px;
+}
+.p2{
+    float: right;
+    margin-top: -300px;
+    margin-right: 50px;
+}
+.n{
+    float: left;
+    margin-top: -500px;
+    margin-left: 150px;
+
+}
+.n a{
+    text-decoration: none;
+    color: black;
+    text-decoration: none;
+}
+.n a:hover{
+    color: white;
+    transition: 0.4s ease-in-out;
+}
+.heading{
+   float: left;
+   margin-left: 152px;
+   margin-top: 50px;
+
+}
+.heading a{
+    text-align: none;
+    text-decoration: none;
+    color: black;
+}
+.heading a:hover{
+    color: white;
+    transition: 0.4s ease-in-out;
+}
+.A{
+    float: left;
+    margin-left: 145px;
+    margin-top: 40px;
+}
+.p3{
+    float: right;
+    margin-top: 200px;
+    margin-right:120px;
+}
+.right{
+    
+    float: right;
+    height: 2017px;
+    width: 494px;
+    background: rgb(222, 222, 149) ;
+    margin-right: -897px;
+    margin-top: -1513px;
+}
+.pm img{
+    float: left;
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.name{
+    float: left;
+    margin-top: 12px;
+    margin-left: 180px;
+}
+.bhu{
+    float: left;
+    width:140px ;
+    margin-left: -300px;
+    margin-top: 50px;
+}
+.bhup{
+    float: left;
+    margin-top: 260px;
+    margin-left: -270px;
+}
+.kriti{
+    float: right;
+    margin-right: 2px;
+
+}
+.kritiv{
+    float: right;
+    margin-top: 210px;
+    margin-right: -200px;
+
+}
+.text{
+    height: 1300px;
+    float: left;
+    width: 350px;
+    margin-top: 50px;
+    padding-left: 50px;
+    box-shadow: 5px 5px 5px gray;
+}
+.footer{
+    float: left;
+    width: 1256px;
+    height: 1200px;
+    background: rgb(222, 222, 149);
+    padding-left: 150px;
+}
+.last{
+    float: left;
+    margin-left: 100px;
+}
+.green{
+    float: right;
+    text-align: center;
+    margin-top:-200px;
+    padding-top: 50px;
+    background-color: green;
+    height: 150px;
+    width: 1500px;
+}
+.ne{
+    float: right;
+    margin-top: -225px;
+}
